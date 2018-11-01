@@ -1,0 +1,19 @@
+.panel.top {
+	background-color: #fff;
+    border-bottom: solid 1px #dadada;
+}
+
+/*.panel.bottom {
+	background-color: #fff;
+    border-top: solid 1px #dadada;
+}*/
+
+.blue-text {
+	color: #2196F3 !important;
+	font-weight: 500;
+}
+
+.wrap canvas.mapboxgl-canvas {
+	position: inherit !important;
+	border: solid 1px #e0e0e0;
+}

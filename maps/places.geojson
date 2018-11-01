@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1499087,
+          22.360883
+        ]
+      },
+      "properties": {
+        "marker-symbol": "star",
+        "title": "Kam Shan Country Park",
+        "description": "Golden Hill Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7728872,
+          30.2636355
+        ]
+      },
+      "properties": {
+        "marker-symbol": "star",
+        "title": "Barton Springs Pool",
+        "description": "2201 Barton Springs Rd, Austin, TX 78746, USA"
+      }
+    }
+  ]
+}
